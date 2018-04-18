@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "997434876494",
+    "firebase_url": "https://access-control-afcb2.firebaseio.com",
+    "project_id": "access-control-afcb2",
+    "storage_bucket": "access-control-afcb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997434876494:android:fbb6afe8c8662a3e",
+        "android_client_info": {
+          "package_name": "com.auth.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997434876494-v55uarqpvo20f47pqs5vhhq4eiruej50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BJS5nXPKndeZqcuxLNKFOAU7xVEnGYw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
